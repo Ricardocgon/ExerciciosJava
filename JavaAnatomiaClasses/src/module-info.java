@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Samsung
+ *
+ */
+module JavaAnatomiaClasses {
+}
