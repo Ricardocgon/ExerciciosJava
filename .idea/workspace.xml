@@ -5,14 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="469fa21f-adb8-4314-ae02-bd8baa0c132c" name="Changes" comment="Atualiza">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EstudosEmJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/herancas/Faxineiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/herancas/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/herancas/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/herancas/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/herancas/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/polimorfismoesobrescrita/ClasseFilha1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/polimorfismoesobrescrita/ClasseFilha2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/polimorfismoesobrescrita/ClasseMae.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/polimorfismoesobrescrita/RodarAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/relacoes/Caminhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/relacoes/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/relacoes/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/ricardo/relacoes/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ricardo/estruturas/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ricardo/estruturas/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +42,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M3yqg41QFoJiBI1ECuGqyLtTzb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,12 +52,39 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RodarAplicacao">
+    <configuration name="RodarAplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ricardo.polimorfismoesobrescrita.RodarAplicacao" />
+      <module name="EstudosEmJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ricardo.polimorfismoesobrescrita.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.ricardo.herancas.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ricardo.herancas.main" />
+      <module name="EstudosEmJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ricardo.herancas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="edu.ricardo.estruturas.main" />
       <module name="EstudosEmJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,6 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RodarAplicacao" />
+        <item itemvalue="Application.edu.ricardo.herancas.main" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
@@ -74,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677014759907</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atualiza">
+      <created>1677018244694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677018244694</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Atualiza">
+      <created>1677018263869</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677018263869</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

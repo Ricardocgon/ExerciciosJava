@@ -1,3 +1,5 @@
+package edu.ricardo.estruturas;
+
 public class Carro {
 
         String cor;

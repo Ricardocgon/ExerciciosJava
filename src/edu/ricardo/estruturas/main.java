@@ -1,3 +1,5 @@
+package edu.ricardo.estruturas;
+
 public class main {
     public static void main(String[] args) {
 
